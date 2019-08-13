@@ -1,0 +1,44 @@
+
+body, html {
+    height: 100%;
+    /* background-image: url('/img/dog.jpg') */
+  }
+.parent,.parent3{
+    /* The image used */
+    background-image: url('/img/elephant.jpg');
+  
+    /* Full height */
+    height: 600px; 
+  
+    /* Create the parallax scrolling effect */
+    /* background-attachment: fixed; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parent1,.parent5{
+    /* The image used */
+    background-image: url('/img/horse.jpg');
+  
+    /* Full height */
+    height: 600px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parent2,.parent4{
+    /* The image used */
+    background-image: url('/img/penguin.jpg');
+  
+    /* Full height */
+    height: 600px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
